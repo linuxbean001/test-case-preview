@@ -1,0 +1,27 @@
+.top-margin{
+
+    margin-top: 10px;
+}
+
+.width-percentage{
+    width: 100%
+}
+
+.card-padding{
+    padding: 20px;
+}
+.card-height{
+    height:150px;
+}
+.export-button {
+    width: 50% !important;
+    color: #212529  !important;
+     border-color: #212529  !important;
+     background-color: white  !important;
+     float: right;
+}
+.text-align{
+    text-align: center;
+}
+
+
